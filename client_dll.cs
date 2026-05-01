@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
@@ -158,7 +158,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CBaseTriggerAPI {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class CFuncRetakeBarrier {
         }
@@ -179,7 +179,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_FuncRotating {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_SoundOpvarSetPointBase {
         }
@@ -271,7 +271,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_PostProcessingVolume {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class CCSPlayer_UseServices {
         }
@@ -335,11 +335,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponAWP {
         }
-        // Parent: ______
+        // Parent: p_____
         // Field count: 0
         public static class C_BaseButton {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class CCSObserver_ObserverServices {
         }
@@ -383,11 +383,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponUMP45 {
         }
-        // Parent: xL____
+        // Parent: None
         // Field count: 0
         public static class C_WeaponG3SG1 {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class C_SpotlightEnd {
         }
@@ -520,7 +520,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseCell_FireCursors {
         }
-        // Parent: None
+        // Parent: xL_k__
         // Field count: 0
         public static class CEnvSoundscape {
         }
@@ -623,7 +623,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CSWeaponBase {
         }
-        // Parent: ____
+        // Parent: p_____
         // Field count: 0
         public static class CTimeline {
         }
@@ -645,7 +645,7 @@ namespace CS2Dumper.Schemas {
         public static class PulseNodeDynamicOutflows_t__DynamicOutflow_t {
             public const nint  = 0x0; // 
         }
-        // Parent: server
+        // Parent: None
         // Field count: 0
         public static class C_WeaponMag7 {
         }
@@ -693,7 +693,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class shard_model_desc_t {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class C_KeychainModule {
         }
@@ -701,7 +701,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CFuncWater {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class CCSPlayer_GlowServices {
         }
@@ -722,7 +722,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CCSPlayer_WaterServices {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_CSObserverPawn {
         }
@@ -734,11 +734,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_FuncLadder {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class C_WeaponMP5SD {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_World {
         }
@@ -766,7 +766,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponSG556 {
         }
-        // Parent: _
+        // Parent: None
         // Field count: 0
         public static class C_CSPlayerPawn {
         }
@@ -794,7 +794,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPlayer_ObserverServices {
         }
-        // Parent: _
+        // Parent: None
         // Field count: 0
         public static class CCashStack {
         }
@@ -855,7 +855,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_RopeKeyframe {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_BaseToggle {
         }
@@ -875,7 +875,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CInfoDynamicShadowHint {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class CPathNode {
         }
@@ -899,7 +899,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponXM1014 {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class C_WorldModelGloves {
         }
@@ -947,7 +947,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CEntityInstance {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_BaseModelEntity {
         }
@@ -979,7 +979,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_LightDirectionalEntity {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_BaseEntity {
         }
@@ -999,7 +999,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_Chicken {
         }
-        // Parent: None
+        // Parent: xL_k__
         // Field count: 0
         public static class C_BasePlayerPawn {
         }
@@ -1007,7 +1007,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_SoundOpvarSetAABBEntity {
         }
-        // Parent: None
+        // Parent: xL_k__
         // Field count: 0
         public static class C_WeaponBizon {
         }
@@ -1093,7 +1093,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseArraylib {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_WeaponUSPSilencer {
         }
@@ -1241,7 +1241,7 @@ namespace CS2Dumper.Schemas {
         public static class CPulseCell_LimitCount__InstanceState_t {
             public const nint  = 0x0; // 
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_WeaponCZ75a {
         }
@@ -1330,7 +1330,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CCSPlayerController_ActionTrackingServices {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class CBodyComponentBaseAnimGraph {
         }
@@ -1367,11 +1367,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponTec9 {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_PhysPropClientside {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_BaseDoor {
         }
@@ -1411,7 +1411,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CSWeaponBaseGun {
         }
-        // Parent: client
+        // Parent: xL_k__
         // Field count: 0
         public static class C_CSGameRulesProxy {
         }
@@ -1465,7 +1465,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CBodyComponentSkeletonInstance {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_CS2WeaponModuleBase {
         }
@@ -1473,7 +1473,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CSGO_TeamPreviewCharacterPosition {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_SmokeGrenadeProjectile {
         }
@@ -1493,7 +1493,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_DynamicProp {
         }
-        // Parent: None
+        // Parent: xL_k__
         // Field count: 0
         public static class C_CSTeam {
         }
@@ -1537,7 +1537,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CBodyComponentBaseModelEntity {
         }
-        // Parent: None
+        // Parent: client
         // Field count: 0
         public static class C_Multimeter {
         }
@@ -1693,7 +1693,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseMathlib {
         }
-        // Parent: xL____
+        // Parent: None
         // Field count: 0
         public static class C_NametagModule {
         }
@@ -1717,7 +1717,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseCell_Unknown {
         }
-        // Parent: X00___
+        // Parent: 8Vw___
         // Field count: 0
         public static class C_WeaponMP7 {
         }
@@ -1737,7 +1737,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CS2HudModelBase {
         }
-        // Parent: MGetKV3ClassDefaults
+        // Parent: None
         // Field count: 0
         public static class C_CSGameRules {
         }
@@ -1799,7 +1799,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseCell_Value_RandomInt {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_CSWeaponBaseShotgun {
         }
@@ -1851,11 +1851,11 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_Item {
         }
-        // Parent: client
+        // Parent: None
         // Field count: 0
         public static class C_CSPetPlacement {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_Beam {
         }
@@ -1929,7 +1929,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_WeaponM249 {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_LocalTempEntity {
         }
@@ -2062,7 +2062,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class C_CSGO_EndOfMatchCamera {
         }
-        // Parent: _
+        // Parent: None
         // Field count: 0
         public static class C_BaseGrenade {
         }
@@ -2106,7 +2106,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CPulseExecCursor {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class C_Sprite {
         }
@@ -2278,7 +2278,7 @@ namespace CS2Dumper.Schemas {
         public static class CCompositeMaterialEditorDoc {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class CClientAlphaProperty {
         }

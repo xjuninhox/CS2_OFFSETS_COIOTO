@@ -177,12 +177,16 @@
         "parent": null
       },
       "FeDynKinLink_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
       "FeEdgeDesc_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -279,7 +283,9 @@
         "parent": null
       },
       "FeNodeWindBase_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -298,7 +304,9 @@
         "parent": null
       },
       "FeRigidColliderIndices_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -359,7 +367,9 @@
         "parent": null
       },
       "FeSourceEdge_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -395,7 +405,9 @@
         "parent": null
       },
       "FeTreeChildren_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -428,7 +440,9 @@
         "parent": null
       },
       "FeWeightedNode_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -452,7 +466,7 @@
       "IPhysAggregateInstance": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL�k�"
       },
       "IPhysicsBody": {
         "fields": {},
@@ -533,12 +547,16 @@
         "parent": null
       },
       "RnFace_t": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
       "RnHalfEdge_t": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -619,7 +637,9 @@
         "parent": null
       },
       "RnVertex_t": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -658,7 +678,7 @@
       "vphysics_save_cphysicsbody_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL�k�"
       },
       "vphysics_save_ragdoll_control_t": {
         "fields": {

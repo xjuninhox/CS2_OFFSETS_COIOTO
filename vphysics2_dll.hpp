@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #pragma once
 
@@ -91,7 +91,7 @@ namespace cs2_dumper {
             namespace RnSoftbodyCapsule_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace vphysics_save_cphysicsbody_t {
             }
@@ -104,7 +104,7 @@ namespace cs2_dumper {
             namespace CFeIndexedJiggleBone {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace IPhysAggregateInstance {
             }
@@ -244,8 +244,9 @@ namespace cs2_dumper {
             namespace IPhysicsJoint {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeEdgeDesc_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -321,8 +322,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeWeightedNode_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -359,8 +361,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeRigidColliderIndices_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -434,8 +437,9 @@ namespace cs2_dumper {
             namespace PhysicsParticleId_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace RnVertex_t {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -447,12 +451,14 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeDynKinLink_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace RnFace_t {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -465,8 +471,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeSourceEdge_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -474,8 +481,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeNodeWindBase_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -518,8 +526,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace FeTreeChildren_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -532,8 +541,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace RnHalfEdge_t {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0

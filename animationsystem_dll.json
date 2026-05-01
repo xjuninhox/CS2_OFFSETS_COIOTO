@@ -84,7 +84,7 @@
       "AnimationSnapshot_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL���"
+        "parent": "xL�k�"
       },
       "AttachmentHandle_t": {
         "fields": {},
@@ -205,7 +205,9 @@
         "parent": null
       },
       "CAnimDesc_Flag": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -337,7 +339,9 @@
         "parent": null
       },
       "CAnimParamHandle": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -783,7 +787,9 @@
         "parent": null
       },
       "CDrawCullingData": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -1690,7 +1696,9 @@
         "parent": null
       },
       "CNmGraphDefinition__ReferencedGraphSlot_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -1804,7 +1812,9 @@
         "parent": null
       },
       "CNmLayerBlendNode__LayerDefinition_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -1994,7 +2004,9 @@
         "parent": null
       },
       "CNmStateMachineNode__TransitionDefinition_t": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -2368,7 +2380,9 @@
         "parent": "modellib"
       },
       "CPoseHandle": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -2858,7 +2872,9 @@
         "parent": null
       },
       "CSeqAutoLayerFlag": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -2898,7 +2914,9 @@
         "parent": null
       },
       "CSeqMultiFetchFlag": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -2931,7 +2949,9 @@
         "parent": null
       },
       "CSeqSeqDescFlag": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -3004,7 +3024,9 @@
         "parent": null
       },
       "CSolveIKTargetHandle_t": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -3146,7 +3168,9 @@
         "parent": null
       },
       "CTransitionUpdateData": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },
@@ -3234,7 +3258,9 @@
         "parent": null
       },
       "ConfigIndex": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -3457,7 +3483,9 @@
         "parent": null
       },
       "MotionIndex": {
-        "fields": {},
+        "fields": {
+          "": 1
+        },
         "metadata": [],
         "parent": null
       },
@@ -3796,7 +3824,9 @@
         "parent": null
       },
       "SampleCode": {
-        "fields": {},
+        "fields": {
+          "": 256
+        },
         "metadata": [],
         "parent": null
       },

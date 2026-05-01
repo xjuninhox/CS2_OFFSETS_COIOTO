@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: animationsystem.dll
@@ -1952,8 +1952,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class SampleCode {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 1
@@ -2007,8 +2008,9 @@ namespace CS2Dumper.Schemas {
         public static class PulseRuntimeVarIndex_t {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class ConfigIndex {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -2055,8 +2057,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CSeqSeqDescFlag {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 1
@@ -2120,7 +2123,7 @@ namespace CS2Dumper.Schemas {
         // Field count: 0
         public static class CNmVectorInfoNode__CDefinition {
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class AnimationSnapshot_t {
         }
@@ -2243,8 +2246,9 @@ namespace CS2Dumper.Schemas {
         public static class PulseCursorID_t {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CAnimParamHandle {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 1
@@ -2252,8 +2256,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class MotionIndex {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 0
@@ -2315,8 +2320,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CSeqAutoLayerFlag {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 1
@@ -2364,8 +2370,9 @@ namespace CS2Dumper.Schemas {
         public static class CSequenceUpdateNodeBase {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CDrawCullingData {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -2436,8 +2443,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CSeqMultiFetchFlag {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -2526,8 +2534,9 @@ namespace CS2Dumper.Schemas {
         public static class CModelConfigElement_UserPick {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CSolveIKTargetHandle_t {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -2804,8 +2813,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CNmLayerBlendNode__LayerDefinition_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 0
@@ -2849,8 +2859,9 @@ namespace CS2Dumper.Schemas {
         public static class IAnimationGraphInstance {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CNmStateMachineNode__TransitionDefinition_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 0
@@ -3652,8 +3663,9 @@ namespace CS2Dumper.Schemas {
         public static class CClothSettingsAnimTag {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CAnimDesc_Flag {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -3687,8 +3699,9 @@ namespace CS2Dumper.Schemas {
         public static class CNmDurationScaleNode__CDefinition {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CTransitionUpdateData {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -4181,8 +4194,9 @@ namespace CS2Dumper.Schemas {
         public static class CNmFloatRemapNode__CDefinition {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CPoseHandle {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 0
@@ -4343,8 +4357,9 @@ namespace CS2Dumper.Schemas {
         public static class CDirectionalBlendUpdateNode {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class CNmGraphDefinition__ReferencedGraphSlot_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1

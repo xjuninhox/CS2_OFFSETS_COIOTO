@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -1259,7 +1259,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_EndCapTimedDecay {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_RemapDistanceToLineSegmentBase {
             }
@@ -1373,7 +1373,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_LightningSnapshotGenerator {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_RemapNamedModelMeshGroupOnceTimed {
             }
@@ -1593,7 +1593,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_SetCPtoVector {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_INIT_RandomYaw {
             }
@@ -1786,7 +1786,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_ConstrainDistanceToPath {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_DistanceCull {
             }
@@ -1798,7 +1798,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_GameDecalRenderer {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_SetControlPointsToModelParticles {
             }
@@ -1831,7 +1831,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_RenderPoints {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_INIT_SetAttributeToScalarExpression {
             }
@@ -1855,7 +1855,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_CreateOnModelAtHeight {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_ModelSurfaceSnapshotGenerator {
             }
@@ -1896,7 +1896,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_RemapTransformOrientationToRotations {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_Cull {
             }
@@ -1913,7 +1913,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_ReadFromNeighboringParticle {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_RenderText {
             }
@@ -1961,7 +1961,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_RandomRotationSpeed {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_InheritFromParentParticlesV2 {
             }
@@ -2067,7 +2067,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_InitSkinnedPositionFromCPSnapshot {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_LagCompensation {
             }
@@ -2172,7 +2172,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_PositionOffset {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_INIT_NormalAlignToCP {
             }
@@ -2216,7 +2216,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_CreateParticleImpulse {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_DensityForce {
             }
@@ -2228,7 +2228,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_ConstrainDistanceToUserSpecifiedPath {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_SetControlPointPositions {
             }
@@ -2240,7 +2240,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_MovementRotateParticleAroundAxis {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_IntraParticleForce {
             }
@@ -2445,7 +2445,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_TimeVaryingForce {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_SetCPOrientationToGroundNormal {
             }
@@ -2587,7 +2587,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_OP_EndCapDecay {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_OP_ForceBasedOnDistanceToPlane {
             }
@@ -2699,7 +2699,7 @@ pub mod cs2_dumper {
             pub mod RenderProjectedMaterial_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_INIT_SetFloatAttributeToVectorExpression {
             }
@@ -2764,7 +2764,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod C_INIT_RemapParticleCountToNamedModelMeshGroupScalar {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod C_INIT_SequenceFromCP {
             }

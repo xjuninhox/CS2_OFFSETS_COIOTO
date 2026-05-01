@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #pragma once
 
@@ -164,7 +164,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBaseTriggerAPI {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace CFuncRetakeBarrier {
             }
@@ -185,7 +185,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_FuncRotating {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_SoundOpvarSetPointBase {
             }
@@ -277,7 +277,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_PostProcessingVolume {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace CCSPlayer_UseServices {
             }
@@ -341,11 +341,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponAWP {
             }
-            // Parent: ______
+            // Parent: p_____
             // Field count: 0
             namespace C_BaseButton {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace CCSObserver_ObserverServices {
             }
@@ -389,11 +389,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponUMP45 {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             namespace C_WeaponG3SG1 {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace C_SpotlightEnd {
             }
@@ -526,7 +526,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_FireCursors {
             }
-            // Parent: None
+            // Parent: xL_k__
             // Field count: 0
             namespace CEnvSoundscape {
             }
@@ -629,7 +629,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CSWeaponBase {
             }
-            // Parent: ____
+            // Parent: p_____
             // Field count: 0
             namespace CTimeline {
             }
@@ -651,7 +651,7 @@ namespace cs2_dumper {
             namespace PulseNodeDynamicOutflows_t__DynamicOutflow_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: server
+            // Parent: None
             // Field count: 0
             namespace C_WeaponMag7 {
             }
@@ -699,7 +699,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace shard_model_desc_t {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace C_KeychainModule {
             }
@@ -707,7 +707,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CFuncWater {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace CCSPlayer_GlowServices {
             }
@@ -728,7 +728,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CCSPlayer_WaterServices {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_CSObserverPawn {
             }
@@ -740,11 +740,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_FuncLadder {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace C_WeaponMP5SD {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_World {
             }
@@ -772,7 +772,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponSG556 {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             namespace C_CSPlayerPawn {
             }
@@ -800,7 +800,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPlayer_ObserverServices {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             namespace CCashStack {
             }
@@ -861,7 +861,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_RopeKeyframe {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_BaseToggle {
             }
@@ -881,7 +881,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CInfoDynamicShadowHint {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace CPathNode {
             }
@@ -905,7 +905,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponXM1014 {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace C_WorldModelGloves {
             }
@@ -953,7 +953,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CEntityInstance {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_BaseModelEntity {
             }
@@ -985,7 +985,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_LightDirectionalEntity {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_BaseEntity {
             }
@@ -1005,7 +1005,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_Chicken {
             }
-            // Parent: None
+            // Parent: xL_k__
             // Field count: 0
             namespace C_BasePlayerPawn {
             }
@@ -1013,7 +1013,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_SoundOpvarSetAABBEntity {
             }
-            // Parent: None
+            // Parent: xL_k__
             // Field count: 0
             namespace C_WeaponBizon {
             }
@@ -1099,7 +1099,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseArraylib {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_WeaponUSPSilencer {
             }
@@ -1247,7 +1247,7 @@ namespace cs2_dumper {
             namespace CPulseCell_LimitCount__InstanceState_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_WeaponCZ75a {
             }
@@ -1336,7 +1336,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CCSPlayerController_ActionTrackingServices {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace CBodyComponentBaseAnimGraph {
             }
@@ -1373,11 +1373,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponTec9 {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_PhysPropClientside {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_BaseDoor {
             }
@@ -1417,7 +1417,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CSWeaponBaseGun {
             }
-            // Parent: client
+            // Parent: xL_k__
             // Field count: 0
             namespace C_CSGameRulesProxy {
             }
@@ -1471,7 +1471,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBodyComponentSkeletonInstance {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_CS2WeaponModuleBase {
             }
@@ -1479,7 +1479,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CSGO_TeamPreviewCharacterPosition {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_SmokeGrenadeProjectile {
             }
@@ -1499,7 +1499,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_DynamicProp {
             }
-            // Parent: None
+            // Parent: xL_k__
             // Field count: 0
             namespace C_CSTeam {
             }
@@ -1543,7 +1543,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CBodyComponentBaseModelEntity {
             }
-            // Parent: None
+            // Parent: client
             // Field count: 0
             namespace C_Multimeter {
             }
@@ -1699,7 +1699,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseMathlib {
             }
-            // Parent: xL____
+            // Parent: None
             // Field count: 0
             namespace C_NametagModule {
             }
@@ -1723,7 +1723,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_Unknown {
             }
-            // Parent: X00___
+            // Parent: 8Vw___
             // Field count: 0
             namespace C_WeaponMP7 {
             }
@@ -1743,7 +1743,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CS2HudModelBase {
             }
-            // Parent: MGetKV3ClassDefaults
+            // Parent: None
             // Field count: 0
             namespace C_CSGameRules {
             }
@@ -1805,7 +1805,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseCell_Value_RandomInt {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_CSWeaponBaseShotgun {
             }
@@ -1857,11 +1857,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_Item {
             }
-            // Parent: client
+            // Parent: None
             // Field count: 0
             namespace C_CSPetPlacement {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_Beam {
             }
@@ -1935,7 +1935,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_WeaponM249 {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_LocalTempEntity {
             }
@@ -2068,7 +2068,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace C_CSGO_EndOfMatchCamera {
             }
-            // Parent: _
+            // Parent: None
             // Field count: 0
             namespace C_BaseGrenade {
             }
@@ -2112,7 +2112,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CPulseExecCursor {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace C_Sprite {
             }
@@ -2284,7 +2284,7 @@ namespace cs2_dumper {
             namespace CCompositeMaterialEditorDoc {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace CClientAlphaProperty {
             }

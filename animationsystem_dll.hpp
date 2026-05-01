@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #pragma once
 
@@ -1958,8 +1958,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace SampleCode {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2013,8 +2014,9 @@ namespace cs2_dumper {
             namespace PulseRuntimeVarIndex_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace ConfigIndex {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -2061,8 +2063,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CSeqSeqDescFlag {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2126,7 +2129,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CNmVectorInfoNode__CDefinition {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace AnimationSnapshot_t {
             }
@@ -2249,8 +2252,9 @@ namespace cs2_dumper {
             namespace PulseCursorID_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CAnimParamHandle {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2258,8 +2262,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace MotionIndex {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -2321,8 +2326,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CSeqAutoLayerFlag {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2370,8 +2376,9 @@ namespace cs2_dumper {
             namespace CSequenceUpdateNodeBase {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CDrawCullingData {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2442,8 +2449,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CSeqMultiFetchFlag {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2532,8 +2540,9 @@ namespace cs2_dumper {
             namespace CModelConfigElement_UserPick {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CSolveIKTargetHandle_t {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2810,8 +2819,9 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CNmLayerBlendNode__LayerDefinition_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -2855,8 +2865,9 @@ namespace cs2_dumper {
             namespace IAnimationGraphInstance {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CNmStateMachineNode__TransitionDefinition_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -3658,8 +3669,9 @@ namespace cs2_dumper {
             namespace CClothSettingsAnimTag {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CAnimDesc_Flag {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -3693,8 +3705,9 @@ namespace cs2_dumper {
             namespace CNmDurationScaleNode__CDefinition {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CTransitionUpdateData {
+                constexpr std::ptrdiff_t  = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -4187,8 +4200,9 @@ namespace cs2_dumper {
             namespace CNmFloatRemapNode__CDefinition {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CPoseHandle {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -4349,8 +4363,9 @@ namespace cs2_dumper {
             namespace CDirectionalBlendUpdateNode {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             namespace CNmGraphDefinition__ReferencedGraphSlot_t {
+                constexpr std::ptrdiff_t  = 0x1; // 
             }
             // Parent: None
             // Field count: 1

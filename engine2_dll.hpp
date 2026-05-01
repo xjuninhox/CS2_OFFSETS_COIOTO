@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #pragma once
 
@@ -67,7 +67,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace EventClientOutput_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventServerPostSimulate_t {
             }
@@ -79,7 +79,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace GameTime_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventServerBeginSimulate_t {
             }
@@ -136,7 +136,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace EventAppShutdown_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventServerPostAdvanceTick_t {
             }
@@ -152,7 +152,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace EventClientPreSimulate_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventClientPauseSimulate_t {
             }
@@ -164,11 +164,11 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CEntityAttributeTable {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventClientPreOutputParallelWithServer_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventAdvanceTick_t {
             }
@@ -196,7 +196,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace EventClientFrameSimulate_t {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             namespace EventServerAdvanceTick_t {
             }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: vphysics2.dll
@@ -85,7 +85,7 @@ namespace CS2Dumper.Schemas {
         public static class RnSoftbodyCapsule_t {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class vphysics_save_cphysicsbody_t {
         }
@@ -98,7 +98,7 @@ namespace CS2Dumper.Schemas {
         public static class CFeIndexedJiggleBone {
             public const nint  = 0x0; // 
         }
-        // Parent: xL____
+        // Parent: xL_k__
         // Field count: 0
         public static class IPhysAggregateInstance {
         }
@@ -238,8 +238,9 @@ namespace CS2Dumper.Schemas {
         public static class IPhysicsJoint {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeEdgeDesc_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 0
@@ -315,8 +316,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeWeightedNode_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -353,8 +355,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeRigidColliderIndices_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -428,8 +431,9 @@ namespace CS2Dumper.Schemas {
         public static class PhysicsParticleId_t {
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class RnVertex_t {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0
@@ -441,12 +445,14 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeDynKinLink_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class RnFace_t {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 1
@@ -459,8 +465,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeSourceEdge_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -468,8 +475,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeNodeWindBase_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -512,8 +520,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class FeTreeChildren_t {
+            public const nint  = 0x1; // 
         }
         // Parent: None
         // Field count: 1
@@ -526,8 +535,9 @@ namespace CS2Dumper.Schemas {
             public const nint  = 0x0; // 
         }
         // Parent: None
-        // Field count: 0
+        // Field count: 1
         public static class RnHalfEdge_t {
+            public const nint  = 0x100; // 
         }
         // Parent: None
         // Field count: 0

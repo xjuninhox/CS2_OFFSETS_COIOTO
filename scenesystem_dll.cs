@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: scenesystem.dll
@@ -69,7 +69,7 @@ namespace CS2Dumper.Schemas {
         public static class CSSDSEndFrameViewInfo {
             public const nint  = 0x0; // 
         }
-        // Parent: scenesystem
+        // Parent: None
         // Field count: 0
         public static class CSSDSMsg_PostLayer {
         }
@@ -78,7 +78,7 @@ namespace CS2Dumper.Schemas {
         public static class CSSDSMsg_LayerBase {
             public const nint  = 0x0; // 
         }
-        // Parent: None
+        // Parent: xL_k__
         // Field count: 0
         public static class CSSDSMsg_PreLayer {
         }

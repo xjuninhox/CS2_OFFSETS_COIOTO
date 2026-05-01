@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -93,7 +93,7 @@ pub mod cs2_dumper {
             pub mod RnSoftbodyCapsule_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod vphysics_save_cphysicsbody_t {
             }
@@ -106,7 +106,7 @@ pub mod cs2_dumper {
             pub mod CFeIndexedJiggleBone {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod IPhysAggregateInstance {
             }
@@ -246,8 +246,9 @@ pub mod cs2_dumper {
             pub mod IPhysicsJoint {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeEdgeDesc_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -323,8 +324,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeWeightedNode_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -361,8 +363,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeRigidColliderIndices_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -436,8 +439,9 @@ pub mod cs2_dumper {
             pub mod PhysicsParticleId_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod RnVertex_t {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -449,12 +453,14 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeDynKinLink_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod RnFace_t {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -467,8 +473,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeSourceEdge_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -476,8 +483,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeNodeWindBase_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -520,8 +528,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod FeTreeChildren_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -534,8 +543,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod RnHalfEdge_t {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0

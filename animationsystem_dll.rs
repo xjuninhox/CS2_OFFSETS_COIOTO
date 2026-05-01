@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-25 00:51:11.687526500 UTC
+// 2026-05-01 01:11:28.526500100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -2103,8 +2103,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod SampleCode {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2158,8 +2159,9 @@ pub mod cs2_dumper {
             pub mod PulseRuntimeVarIndex_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod ConfigIndex {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
@@ -2206,8 +2208,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CSeqSeqDescFlag {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2271,7 +2274,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CNmVectorInfoNode__CDefinition {
             }
-            // Parent: xL____
+            // Parent: xL_k__
             // Field count: 0
             pub mod AnimationSnapshot_t {
             }
@@ -2394,8 +2397,9 @@ pub mod cs2_dumper {
             pub mod PulseCursorID_t {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CAnimParamHandle {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2403,8 +2407,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod MotionIndex {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -2466,8 +2471,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CSeqAutoLayerFlag {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 1
@@ -2515,8 +2521,9 @@ pub mod cs2_dumper {
             pub mod CSequenceUpdateNodeBase {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CDrawCullingData {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2587,8 +2594,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CSeqMultiFetchFlag {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2677,8 +2685,9 @@ pub mod cs2_dumper {
             pub mod CModelConfigElement_UserPick {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CSolveIKTargetHandle_t {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -2955,8 +2964,9 @@ pub mod cs2_dumper {
                 pub const : usize = 0x0; // 
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CNmLayerBlendNode__LayerDefinition_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -3000,8 +3010,9 @@ pub mod cs2_dumper {
             pub mod IAnimationGraphInstance {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CNmStateMachineNode__TransitionDefinition_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -3803,8 +3814,9 @@ pub mod cs2_dumper {
             pub mod CClothSettingsAnimTag {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CAnimDesc_Flag {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -3838,8 +3850,9 @@ pub mod cs2_dumper {
             pub mod CNmDurationScaleNode__CDefinition {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CTransitionUpdateData {
+                pub const : usize = 0x100; // 
             }
             // Parent: None
             // Field count: 0
@@ -4332,8 +4345,9 @@ pub mod cs2_dumper {
             pub mod CNmFloatRemapNode__CDefinition {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CPoseHandle {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 0
@@ -4494,8 +4508,9 @@ pub mod cs2_dumper {
             pub mod CDirectionalBlendUpdateNode {
             }
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub mod CNmGraphDefinition__ReferencedGraphSlot_t {
+                pub const : usize = 0x1; // 
             }
             // Parent: None
             // Field count: 1
