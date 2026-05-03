@@ -1,11 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
 // 2026-05-03 02:14:52.855877800 UTC
 
-#![allow(non_upper_case_globals, unused)]
-
-pub mod cs2_dumper {
+pub const cs2_dumper = struct {
     // Module: client.dll
-    pub mod buttons {
+    pub const buttons = struct {
         pub const attack: usize = 0x2050990;
         pub const attack2: usize = 0x2050A20;
         pub const back: usize = 0x2050C60;
@@ -20,7 +18,7 @@ pub mod cs2_dumper {
         pub const sprint: usize = 0x2050870;
         pub const turnleft: usize = 0x2050AB0;
         pub const turnright: usize = 0x2050B40;
-        pub const r#use: usize = 0x2050E10;
+        pub const use: usize = 0x2050E10;
         pub const zoom: usize = 0x2340C90;
-    }
-}
+    };
+};

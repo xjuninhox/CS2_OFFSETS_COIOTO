@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-03 01:20:51.058206700 UTC
+// 2026-05-03 02:14:52.855877800 UTC
 
 #pragma once
 
@@ -14,6 +14,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwEntityList = 0x24D1DF0;
             constexpr std::ptrdiff_t dwGameEntitySystem = 0x24D1DF0;
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x2090;
+            constexpr std::ptrdiff_t dwGameRules = 0x232BFB8;
             constexpr std::ptrdiff_t dwGlobalVars = 0x204C5D8;
             constexpr std::ptrdiff_t dwGlowManager = 0x2328DB0;
             constexpr std::ptrdiff_t dwLocalPlayerController = 0x230B5D0;

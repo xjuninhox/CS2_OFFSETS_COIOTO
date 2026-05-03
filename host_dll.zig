@@ -1,24 +1,22 @@
 // Generated using https://github.com/a2x/cs2-dumper
 // 2026-05-03 02:14:52.855877800 UTC
 
-#![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
-
-pub mod cs2_dumper {
-    pub mod schemas {
+pub const cs2_dumper = struct {
+    pub const schemas = struct {
         // Module: host.dll
         // Class count: 2
         // Enum count: 0
-        pub mod host_dll {
+        pub const host_dll = struct {
             // Parent: None
             // Field count: 1
-            pub mod EmptyTestScript {
+            pub const EmptyTestScript = struct {
                 pub const m_hTest: usize = 0x10; // CAnimScriptParam<float32>
-            }
+            };
             // Parent: None
             // Field count: 1
-            pub mod CAnimScriptBase {
+            pub const CAnimScriptBase = struct {
                 pub const m_bIsValid: usize = 0x8; // bool
-            }
-        }
-    }
-}
+            };
+        };
+    };
+};
