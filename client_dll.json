@@ -84,7 +84,7 @@
       "CBodyComponentBaseAnimGraph": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CBodyComponentBaseModelEntity": {
         "fields": {},
@@ -338,7 +338,7 @@
       "CClientAlphaProperty": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CCollisionProperty": {
         "fields": {},
@@ -392,7 +392,7 @@
       "CEnvSoundscape": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CEnvSoundscapeAlias_snd_soundscape": {
         "fields": {},
@@ -484,7 +484,7 @@
       "CFuncRetakeBarrier": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CFuncWater": {
         "fields": {},
@@ -621,7 +621,7 @@
       "CPathNode": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CPathQueryComponent": {
         "fields": {},
@@ -1142,7 +1142,7 @@
       "CTimeline": {
         "fields": {},
         "metadata": [],
-        "parent": "p��.�"
+        "parent": "p�\u0007W�"
       },
       "CTriggerFan": {
         "fields": {},
@@ -1172,7 +1172,7 @@
       "C_BaseButton": {
         "fields": {},
         "metadata": [],
-        "parent": "p)�.�"
+        "parent": "p)\u0007W�"
       },
       "C_BaseCSGrenade": {
         "fields": {},
@@ -1197,12 +1197,12 @@
       "C_BaseDoor": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_BaseEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_BaseEntityAPI": {
         "fields": {},
@@ -1217,7 +1217,7 @@
       "C_BaseModelEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_BaseModelEntity__Emphasized_Phoneme": {
         "fields": {},
@@ -1227,7 +1227,7 @@
       "C_BasePlayerPawn": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_BasePlayerWeapon": {
         "fields": {},
@@ -1242,7 +1242,7 @@
       "C_BaseToggle": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_BaseTrigger": {
         "fields": {},
@@ -1252,7 +1252,7 @@
       "C_Beam": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_Breakable": {
         "fields": {},
@@ -1427,7 +1427,7 @@
       "C_CSGameRulesProxy": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_CSMinimapBoundary": {
         "fields": {},
@@ -1462,7 +1462,7 @@
       "C_CSTeam": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_CSWeaponBase": {
         "fields": {},
@@ -1577,7 +1577,7 @@
       "C_EntityFlame": {
         "fields": {},
         "metadata": [],
-        "parent": "`\u001d�.�"
+        "parent": "`\u001d\u0007W�"
       },
       "C_EnvCombinedLightProbeVolume": {
         "fields": {},
@@ -1817,7 +1817,7 @@
       "C_Item": {
         "fields": {},
         "metadata": [],
-        "parent": "�+�.�"
+        "parent": "�+\u000eW�"
       },
       "C_ItemDogtags": {
         "fields": {},
@@ -1872,7 +1872,7 @@
       "C_LocalTempEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_MapPreviewParticleSystem": {
         "fields": {},
@@ -1952,7 +1952,7 @@
       "C_PhysPropClientside": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_PhysicsProp": {
         "fields": {},
@@ -2112,7 +2112,7 @@
       "C_SkyCamera": {
         "fields": {},
         "metadata": [],
-        "parent": "0��.�"
+        "parent": "0�\u0007W�"
       },
       "C_SmokeGrenade": {
         "fields": {},
@@ -2122,7 +2122,7 @@
       "C_SmokeGrenadeProjectile": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_SoundAreaEntityBase": {
         "fields": {},
@@ -2202,7 +2202,7 @@
       "C_SoundOpvarSetPointBase": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_SoundOpvarSetPointEntity": {
         "fields": {},
@@ -2217,7 +2217,7 @@
       "C_Sprite": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_StattrakModule": {
         "fields": {},
@@ -2307,7 +2307,7 @@
       "C_WeaponBizon": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_WeaponCZ75a": {
         "fields": {},
@@ -2377,7 +2377,7 @@
       "C_WeaponMP7": {
         "fields": {},
         "metadata": [],
-        "parent": "8Vw.�"
+        "parent": "8V�V�"
       },
       "C_WeaponMP9": {
         "fields": {},
@@ -2452,7 +2452,7 @@
       "C_WeaponUSPSilencer": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_WeaponXM1014": {
         "fields": {},

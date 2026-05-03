@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-01 01:11:28.526500100 UTC
+// 2026-05-03 01:20:51.058206700 UTC
 
 #pragma once
 
@@ -82,7 +82,7 @@ namespace cs2_dumper {
             namespace AggregateLODSetup_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace ExtraVertexStreamOverride_t {
             }
@@ -179,7 +179,7 @@ namespace cs2_dumper {
             namespace BakedLightingInfo_t__BakedShadowAssignment_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace MaterialOverride_t {
             }

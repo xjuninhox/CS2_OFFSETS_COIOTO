@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-01 01:11:28.526500100 UTC
+// 2026-05-03 01:20:51.058206700 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -2180,7 +2180,7 @@ pub mod cs2_dumper {
                 MOVETYPE_CUSTOM = 0xA,
                 MOVETYPE_LAST = 0xB
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CWeaponNOVA {
             }
@@ -2329,7 +2329,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulse_ResumePoint {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTriggerFan {
             }
@@ -2505,7 +2505,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CScriptItem {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CDynamicPropAlias_prop_dynamic_override {
             }
@@ -2541,7 +2541,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSmokeGrenade {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBaseCombatCharacter {
             }
@@ -2581,7 +2581,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGamePlayerEquip {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CPointEntityFinder {
             }
@@ -2626,7 +2626,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CRenderComponent {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CWaterBullet {
             }
@@ -3028,7 +3028,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CLogicDistanceAutosave {
             }
-            // Parent: ___1__
+            // Parent: __7Y__
             // Field count: 0
             pub mod CLogicBranch {
             }
@@ -3056,7 +3056,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSoundEventPathCornerEntity {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CCSPlayerBase_CameraServices {
             }
@@ -3173,7 +3173,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysTorque {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CMultiSource {
             }
@@ -3297,7 +3297,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CChoreoInfoTarget {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTonemapController2 {
             }
@@ -3337,7 +3337,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSPlayer_BulletServices {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CSkyCamera {
             }
@@ -3474,7 +3474,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEntityComponent {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBasePlatTrain {
             }
@@ -3540,7 +3540,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CWeaponMAC10 {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CFuncLadder {
             }
@@ -3665,7 +3665,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysLength {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTeam {
             }
@@ -3781,7 +3781,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPropDataComponent {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CScriptTriggerOnce {
             }
@@ -3814,7 +3814,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_TeamPreviewCharacterPosition {
             }
-            // Parent: _W_1__
+            // Parent: _W4Y__
             // Field count: 0
             pub mod CGameRulesProxy {
             }
@@ -3912,7 +3912,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CItem_Healthshot {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBaseGrenade {
             }
@@ -3985,7 +3985,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Inflow_ObservableVariableListener {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CFuncMonitor {
             }
@@ -3997,7 +3997,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGunTarget {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CSoundEventConeEntity {
             }
@@ -4155,7 +4155,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CCSGO_TeamIntroCounterTerroristPosition {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CRagdollProp {
             }
@@ -4255,7 +4255,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEntityDissolve {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CCSGameRules {
             }
@@ -4351,7 +4351,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBaseDMStart {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBaseModelEntity {
             }
@@ -4439,7 +4439,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPhysImpact {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBaseEntity {
             }
@@ -4451,7 +4451,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CGameSceneNodeHandle {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CMarkupVolumeWithRef {
             }
@@ -4463,7 +4463,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_Unknown {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CFuncPlatRot {
             }
@@ -4531,7 +4531,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEnvBeverage {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CPhysMotor {
             }
@@ -4641,7 +4641,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CSprite {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CBaseMoveBehavior {
             }
@@ -4717,7 +4717,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CFlashbangProjectile {
             }
-            // Parent: _T_1__
+            // Parent: _T8Y__
             // Field count: 0
             pub mod CTriggerMultiple {
             }
@@ -4754,7 +4754,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CRevertSaved {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTriggerBombReset {
             }
@@ -4778,7 +4778,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoInstructorHintBombTargetA {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTeamplayRules {
             }
@@ -4875,7 +4875,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPlayer_WeaponServices {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CRagdollPropAttached {
             }
@@ -5045,7 +5045,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CPulseCell_LimitCount__Criteria_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CFuncRotator {
             }
@@ -5057,7 +5057,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CInfoPlayerCounterterrorist {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CEnvFade {
             }
@@ -5065,7 +5065,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBasePlayerVData {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CTriggerImpact {
             }
@@ -5094,7 +5094,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CBasePropDoor {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CLogicBranchList {
             }
@@ -5182,7 +5182,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CTriggerLerpObject {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod CPhysicsPropOverride {
             }
@@ -5470,7 +5470,7 @@ pub mod cs2_dumper {
             pub mod PointCameraSettings_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod DebugDrawBoneTransforms_t {
             }
@@ -5604,7 +5604,7 @@ pub mod cs2_dumper {
             pub mod PhysObjectHeader_t {
                 pub const : usize = 0x0; // 
             }
-            // Parent: ___1__
+            // Parent: __4Y__
             // Field count: 0
             pub mod CSimpleStopwatch {
             }

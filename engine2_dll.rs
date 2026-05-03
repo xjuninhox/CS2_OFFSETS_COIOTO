@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-01 01:11:28.526500100 UTC
+// 2026-05-03 01:20:51.058206700 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -66,7 +66,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod EventClientOutput_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventServerPostSimulate_t {
             }
@@ -78,7 +78,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod GameTime_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventServerBeginSimulate_t {
             }
@@ -135,7 +135,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod EventAppShutdown_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventServerPostAdvanceTick_t {
             }
@@ -151,7 +151,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod EventClientPreSimulate_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventClientPauseSimulate_t {
             }
@@ -163,11 +163,11 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CEntityAttributeTable {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventClientPreOutputParallelWithServer_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventAdvanceTick_t {
             }
@@ -195,7 +195,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod EventClientFrameSimulate_t {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod EventServerAdvanceTick_t {
             }

@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-01 01:11:28.526500100 UTC
+// 2026-05-03 01:20:51.058206700 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -2274,7 +2274,7 @@ pub mod cs2_dumper {
             // Field count: 0
             pub mod CNmVectorInfoNode__CDefinition {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             pub mod AnimationSnapshot_t {
             }

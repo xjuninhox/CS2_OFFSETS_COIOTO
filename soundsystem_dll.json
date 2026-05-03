@@ -63,12 +63,12 @@
       "CSndSeqInstSndEvtSchema": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSndSeqInstruments": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSosGroupActionLimitSchema": {
         "fields": {},
@@ -93,12 +93,12 @@
       "CSosGroupActionSetSoundeventParameterSchema": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSosGroupActionSoundeventClusterSchema": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSosGroupActionSoundeventCountSchema": {
         "fields": {},
@@ -108,12 +108,12 @@
       "CSosGroupActionSoundeventMinMaxValuesSchema": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSosGroupActionSoundeventPrioritySchema": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CSosGroupActionTimeBlockLimitSchema": {
         "fields": {},
@@ -199,7 +199,7 @@
       "CVMixBoxverbProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixCommand": {
         "fields": {
@@ -243,7 +243,7 @@
       "CVMixDelayProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "CVMixDiffusorProcessorDesc": {
         "fields": {},
@@ -288,7 +288,7 @@
       "CVMixFilterProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixFlangerProcessorDesc": {
         "fields": {},
@@ -337,7 +337,7 @@
       "CVMixOscProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixPannerProcessorDesc": {
         "fields": {},
@@ -352,7 +352,7 @@
       "CVMixPlateReverbProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixPresetDSPProcessorDesc": {
         "fields": {},
@@ -362,7 +362,7 @@
       "CVMixShaperProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixSteamAudioDirectProcessorDesc": {
         "fields": {},
@@ -392,7 +392,7 @@
       "CVMixSubgraphSwitchProcessorDesc": {
         "fields": {},
         "metadata": [],
-        "parent": "�B�?�"
+        "parent": "�Bx��"
       },
       "CVMixUtilityProcessorDesc": {
         "fields": {},

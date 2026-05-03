@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-01 01:11:28.526500100 UTC
+// 2026-05-03 01:20:51.058206700 UTC
 
 #pragma once
 
@@ -353,11 +353,11 @@ namespace cs2_dumper {
             namespace CDSPPresetMixgroupModifierTable {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSosGroupActionSoundeventClusterSchema {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSosGroupActionSetSoundeventParameterSchema {
             }
@@ -380,7 +380,7 @@ namespace cs2_dumper {
             namespace CVoiceContainerAnalysisBase {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSosGroupActionSoundeventMinMaxValuesSchema {
             }
@@ -401,7 +401,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixControlInput {
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixBoxverbProcessorDesc {
             }
@@ -414,7 +414,7 @@ namespace cs2_dumper {
             namespace VMixPannerDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSosGroupActionSoundeventPrioritySchema {
             }
@@ -432,7 +432,7 @@ namespace cs2_dumper {
             namespace VMixModDelayDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSndSeqInstSndEvtSchema {
             }
@@ -440,7 +440,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixNameInputMeter {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CSndSeqInstruments {
             }
@@ -606,7 +606,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVMixModDelayProcessorDesc {
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixShaperProcessorDesc {
             }
@@ -620,7 +620,7 @@ namespace cs2_dumper {
             namespace CAudioEmphasisSample {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixOscProcessorDesc {
             }
@@ -691,7 +691,7 @@ namespace cs2_dumper {
             namespace CSoundContainerReferenceArray {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixFilterProcessorDesc {
             }
@@ -704,7 +704,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVoiceContainerTapePlayer {
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixSubgraphSwitchProcessorDesc {
             }
@@ -785,7 +785,7 @@ namespace cs2_dumper {
             namespace VMixEffectChainDesc_t {
                 constexpr std::ptrdiff_t  = 0x0; // 
             }
-            // Parent: _B____
+            // Parent: _Bx___
             // Field count: 0
             namespace CVMixPlateReverbProcessorDesc {
             }
@@ -856,7 +856,7 @@ namespace cs2_dumper {
             // Field count: 0
             namespace CVoiceContainerDecayingSineWave {
             }
-            // Parent: xL_k__
+            // Parent: xL____
             // Field count: 0
             namespace CVMixDelayProcessorDesc {
             }

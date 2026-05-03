@@ -656,7 +656,7 @@
       "C_INIT_NormalAlignToCP": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_INIT_NormalOffset": {
         "fields": {},
@@ -811,7 +811,7 @@
       "C_INIT_RandomYaw": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_INIT_RandomYawFlip": {
         "fields": {},
@@ -921,7 +921,7 @@
       "C_INIT_SequenceFromCP": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_INIT_SequenceLifeTime": {
         "fields": {},
@@ -931,12 +931,12 @@
       "C_INIT_SetAttributeToScalarExpression": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_INIT_SetFloatAttributeToVectorExpression": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_INIT_SetHitboxToClosest": {
         "fields": {},
@@ -1126,7 +1126,7 @@
       "C_OP_Cull": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_CurlNoiseForce": {
         "fields": {},
@@ -1171,7 +1171,7 @@
       "C_OP_DensityForce": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_DifferencePreviousParticle": {
         "fields": {},
@@ -1206,7 +1206,7 @@
       "C_OP_DistanceCull": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_DistanceToTransform": {
         "fields": {},
@@ -1286,7 +1286,7 @@
       "C_OP_ForceBasedOnDistanceToPlane": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_ForceControlPointStub": {
         "fields": {},
@@ -1321,7 +1321,7 @@
       "C_OP_InheritFromParentParticlesV2": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_InheritFromPeerSystem": {
         "fields": {},
@@ -1341,12 +1341,12 @@
       "C_OP_IntraParticleForce": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_LagCompensation": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_LazyCullCompareFloat": {
         "fields": {},
@@ -1446,7 +1446,7 @@
       "C_OP_ModelSurfaceSnapshotGenerator": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_MoveToHitbox": {
         "fields": {},
@@ -1726,7 +1726,7 @@
       "C_OP_RemapDistanceToLineSegmentBase": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_RemapDistanceToLineSegmentToScalar": {
         "fields": {},
@@ -1791,7 +1791,7 @@
       "C_OP_RemapNamedModelMeshGroupOnceTimed": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_RemapNamedModelSequenceEndCap": {
         "fields": {},
@@ -2016,7 +2016,7 @@
       "C_OP_RenderText": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_RenderTrails": {
         "fields": {},
@@ -2101,7 +2101,7 @@
       "C_OP_SetCPOrientationToGroundNormal": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_SetCPOrientationToPointAtCP": {
         "fields": {},
@@ -2161,7 +2161,7 @@
       "C_OP_SetControlPointPositions": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_SetControlPointRotation": {
         "fields": {},
@@ -2211,7 +2211,7 @@
       "C_OP_SetControlPointsToModelParticles": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "C_OP_SetControlPointsToParticle": {
         "fields": {},

@@ -466,7 +466,7 @@
       "IPhysAggregateInstance": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "IPhysicsBody": {
         "fields": {},
@@ -678,7 +678,7 @@
       "vphysics_save_cphysicsbody_t": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�k�"
+        "parent": "xL�\u0016�"
       },
       "vphysics_save_ragdoll_control_t": {
         "fields": {
