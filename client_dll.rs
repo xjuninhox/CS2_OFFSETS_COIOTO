@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-08 00:11:42.504734400 UTC
+// 2026-05-14 23:03:21.593688100 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -732,7 +732,7 @@ pub mod cs2_dumper {
             // Parent: CPlayer_ObserverServices
             // Field count: 1
             pub mod CCSObserver_ObserverServices {
-                pub const m_obsInterpState: usize = 0x64; // ObserverInterpState_t
+                pub const m_obsInterpState: usize = 0x68; // ObserverInterpState_t
             }
             // Parent: CEntityComponent
             // Field count: 1
