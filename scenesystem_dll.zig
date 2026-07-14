@@ -1,12 +1,19 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-30 00:44:10.586393700 UTC
+// 2026-07-14 22:11:44.678968600 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: scenesystem.dll
         // Class count: 9
-        // Enum count: 5
+        // Enum count: 6
         pub const scenesystem_dll = struct {
+            // Alignment: 4
+            // Member count: 3
+            pub const ESceneObjectMeshletVisualization = enum(u32) {
+                SCENEOBJECT_MESHLET_VIS_NONE = 0x0,
+                SCENEOBJECT_MESHLET_VIS_MESHLET = 0x1,
+                SCENEOBJECT_MESHLET_VIS_CULLED = 0x2
+            };
             // Alignment: 4
             // Member count: 7
             pub const ESceneViewDebugOverlaysListenerDataType_t = enum(u32) {

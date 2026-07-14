@@ -1,11 +1,18 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-30 00:44:10.586393700 UTC
+// 2026-07-14 22:11:44.678968600 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: scenesystem.dll
     // Class count: 9
-    // Enum count: 5
+    // Enum count: 6
     public static class ScenesystemDll {
+        // Alignment: 4
+        // Member count: 3
+        public enum ESceneObjectMeshletVisualization : uint {
+            SCENEOBJECT_MESHLET_VIS_NONE = 0x0,
+            SCENEOBJECT_MESHLET_VIS_MESHLET = 0x1,
+            SCENEOBJECT_MESHLET_VIS_CULLED = 0x2
+        }
         // Alignment: 4
         // Member count: 7
         public enum ESceneViewDebugOverlaysListenerDataType_t : uint {
