@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-23 12:55:39.534613800 UTC
+// 2026-09-23 00:00:12.193049500 UTC
 
 pub const cs2_dumper = struct {
     pub const offsets = struct {
@@ -46,6 +46,7 @@ pub const cs2_dumper = struct {
         // Module: soundsystem.dll
         pub const soundsystem_dll = struct {
             pub const dwSoundSystem: usize = 0x535340;
+            pub const dwSoundSystem_engineViewData: usize = 0x6C;
         };
     };
 };

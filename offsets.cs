@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-23 12:55:39.534613800 UTC
+// 2026-09-23 00:00:12.193049500 UTC
 
 namespace CS2Dumper.Offsets {
     // Module: client.dll
@@ -45,5 +45,6 @@ namespace CS2Dumper.Offsets {
     // Module: soundsystem.dll
     public static class SoundsystemDll {
         public const nint dwSoundSystem = 0x535340;
+        public const nint dwSoundSystem_engineViewData = 0x6C;
     }
 }

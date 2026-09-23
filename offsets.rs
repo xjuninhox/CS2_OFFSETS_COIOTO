@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-23 12:55:39.534613800 UTC
+// 2026-09-23 00:00:12.193049500 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -48,6 +48,7 @@ pub mod cs2_dumper {
         // Module: soundsystem.dll
         pub mod soundsystem_dll {
             pub const dwSoundSystem: usize = 0x535340;
+            pub const dwSoundSystem_engineViewData: usize = 0x6C;
         }
     }
 }
