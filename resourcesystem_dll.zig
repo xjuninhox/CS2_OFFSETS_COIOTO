@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-29 08:54:33.699279 UTC
+// 2026-10-30 09:23:07.316567900 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: resourcesystem.dll
-        // Class count: 62
+        // Class count: 61
         // Enum count: 5
         pub const resourcesystem_dll = struct {
             // Alignment: 4
@@ -354,13 +354,6 @@ pub const cs2_dumper = struct {
             // Metadata:
             // MResourceTypeForInfoType
             pub const InfoForResourceTypeCCompositeMaterialKit = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            //
-            // Metadata:
-            // MResourceTypeForInfoType
-            pub const InfoForResourceTypeCVMixListResource = struct {
             };
             // Parent: None
             // Field count: 0

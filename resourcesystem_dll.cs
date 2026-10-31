@@ -1,9 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-29 08:54:33.699279 UTC
+// 2026-10-30 09:23:07.316567900 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: resourcesystem.dll
-    // Class count: 62
+    // Class count: 61
     // Enum count: 5
     public static class ResourcesystemDll {
         // Alignment: 4
@@ -353,13 +353,6 @@ namespace CS2Dumper.Schemas {
         // Metadata:
         // MResourceTypeForInfoType
         public static class InfoForResourceTypeCCompositeMaterialKit {
-        }
-        // Parent: None
-        // Field count: 0
-        //
-        // Metadata:
-        // MResourceTypeForInfoType
-        public static class InfoForResourceTypeCVMixListResource {
         }
         // Parent: None
         // Field count: 0
